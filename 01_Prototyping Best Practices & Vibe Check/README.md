@@ -82,8 +82,8 @@ What are some limitations of vibe checking as an evaluation tool?
 
 The some of the limitation of vibe checking as an evaluation tools are the following:
 
-    - It could be subjective. Different people could have different opinions and hence rate/judge response accordingly.
-    - User could evaluate the same response differently at different time, mostly depending upon mood and focusness.
+- It could be subjective. Different people could have different opinions and hence rate/judge response accordingly.
+- User could evaluate the same response differently at different time, mostly depending upon mood and focusness.
 
 
 ### 🚧 Advanced Build (OPTIONAL):
