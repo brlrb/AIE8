@@ -38,14 +38,35 @@ Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
     - Aspect Tested:
+        Relevance: The response was in par to what is expected
+        Accuracy: The response is accurate
+        Clarity: The response is clear and concise
+        Tone & Style: The tone and style is as expected
+
 2. Read the following paragraph and provide a concise summary of the key points…
     - Aspect Tested:
+        Main Idea Capture: Yes, it captured the main idea
+        Conciseness: It is shorter than the main paragraph and included important details
+        Clarity: It is clear to read and undertanable
+
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
     - Aspect Tested:
+        Creativity & Originality: It is creative and looks original
+        Adherence to Prompt: It is imaginative, has words between 100 - 150, and it is about robot and friendship
+        Emotional Impact: Since it is about friendship and in unexpected place, it is a bit emotional too
+
+
+
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
     - Aspect Tested:
+        Correctness / Accuracy: Yes, the answer is correct
+        Reasoning: It provided a concise resoning to get the answer
+        Clarity: The solution is easy to follow
+
+
 5. Rewrite the following paragraph in a professional, formal tone…
     - Aspect Tested:
+        Correctness: The re-written text is correct and is professional
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
