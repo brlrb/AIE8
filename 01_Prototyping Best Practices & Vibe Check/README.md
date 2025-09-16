@@ -80,6 +80,12 @@ This "vibe check" now serves as a baseline, of sorts, to help understand what ho
 What are some limitations of vibe checking as an evaluation tool?
 ##### ✅ Answer:
 
+The some of the limitation of vibe checking as an evaluation tools are the following:
+
+    - It could be subjective. Different people could have different opinions and hence rate/judge response accordingly.
+    - User could evaluate the same response differently at different time, mostly depending upon mood and focusness.
+
+
 ### 🚧 Advanced Build (OPTIONAL):
 
 Please make adjustments to your application that you believe will improve the vibe check you completed above, then deploy the changes to your Vercel domain [(see these instructions from your Challenge project)](https://github.com/AI-Maker-Space/The-AI-Engineer-Challenge/blob/main/README.md) and redo the above vibe check.
