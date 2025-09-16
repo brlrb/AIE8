@@ -94,14 +94,15 @@ Please make adjustments to your application that you believe will improve the vi
 
 #### 🏗️ Activity #1
 ##### Adjustments Made:
-- _describe adjustment(s) here_
+- Added additional GPT models available via OpenAI API
+- Added code formatter for markdown
+- Added a personality category such as tone, perfornalism, clarity, and engagement  
+
 
 ##### Results:
-1. _Comment here how the change(s) impacted the vibe check of your system_
-2. 
-3. 
-4. 
-5.
+Overall, for all the questions, as I was able to adjust the professionalism, the resuts were extremely impressive.
+
+
 
 
 ## Submitting Your Homework
