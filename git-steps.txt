@@ -1,0 +1,7 @@
+git pull upstream main
+
+git add .
+
+git commit - "Week ..."
+
+git push origin main
